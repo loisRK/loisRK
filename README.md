@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=RyunKyung%20Kim&animation=twinkling&fontSize=50&fontAlignY=35)
+![header](https://capsule-render.vercel.app/api?type=waving&color=B08BBB&height=200&section=header&text=RyunKyung%20Kim&animation=twinkling&fontSize=50&fontAlignY=35&fontColor=fff)
  
 
 
