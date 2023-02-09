@@ -11,7 +11,7 @@
  <br/><br/>
  <div>
   
-  <b>✳️ USED SKILLS ✳️</b><br/>
+  <b>✳️ SKILLS ✳️</b><br/>
   
   <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white"> 
   <img src="https://img.shields.io/badge/java-007396?style=flat&logo=java&logoColor=white">
