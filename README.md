@@ -42,13 +42,11 @@
  <div align="center">
    <b>📊 MY GIT SUMMARY 📊</b><br/><br/>
    
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=loisRK&layout=compact&bg_color=C8DBBE&title_color=000&text_color=000">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=loisRK&layout=compact&bg_color=C8DBBE&title_color=fff&text_color=fff">
    &nbsp;&nbsp;&nbsp;
-   <img src="https://github-readme-stats.vercel.app/api?username=loisRK&show_icons=false&bg_color=C8DBBE&title_color=000&text_color=000">
+   <img src="https://github-readme-stats.vercel.app/api?username=loisRK&show_icons=false&bg_color=C8DBBE&title_color=fff&text_color=fff">
 
   </div>
 </div>
-
-
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=EEEEEE&height=200&section=footer)
