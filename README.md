@@ -18,3 +18,5 @@
 Hi 👋🏻
 <br/><br/><br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=loisRK&layout=compact&bg_color=DBDFEA&title_color=000&text_color=000">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=loisRK\&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
