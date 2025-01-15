@@ -1,22 +1,8 @@
-<!-- <div align="center">
- 
- ![header](https://capsule-render.vercel.app/api?type=waving&color=ACB1D6&height=200&section=header&text=RyunKyung%20Kim&animation=twinkling&fontSize=50&fontAlignY=35&fontColor=fff)
- 
- <div align="center">
-  <b>📊 MY GIT SUMMARY 📊</b><br/>
-
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ddukbul04)](https://solved.ac/ddukbul04) &nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=loisRK&layout=compact&bg_color=DBDFEA&title_color=fff&text_color=fff">
-
- </div>
- 
- ![Footer](https://capsule-render.vercel.app/api?type=waving&color=ACB1D6&height=200&section=footer)
- 
-</div> -->
-
 # Ryunkyung Kim
-Hi 👋🏻
-<br/><br/><br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=loisRK&layout=compact&bg_color=DBDFEA&title_color=000&text_color=000">
+Hi 👋🏻 <br><br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=loisRK\&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=loisrk&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=188FFF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
+<br>
+
+<!-- Hit counter -->
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Floisrk&count_bg=%23188FFF&title_bg=%2320232a&icon=github.svg&icon_color=%23FFFFFF&title=Hello!&edge_flat=false"/>
