@@ -69,7 +69,7 @@ fun_fact: "협곡에서도 한타 전 와드부터 박는 타입 🛡️"
 ### 📈 GitHub Stats
 
 <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=loisRK&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" /> -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=loisRK&theme=tokyonight&hide_border=true" />
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=loisRK&theme=tokyonight&hide_border=true" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loisRK&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 <!-- <br/>
