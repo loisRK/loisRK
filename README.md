@@ -16,8 +16,7 @@
 name: Lois
 role: DevOps Engineer / SRE
 company: SOLUM (솔루엠)
-focus:
-  - "메커니컬 디자인 → 클라우드 인프라로 커리어를 갈아탄 사람"
+focus: "메커니컬 디자인 → 클라우드 인프라로 커리어를 갈아탄 사람"
 philosophy: "Infrastructure as Code, Security as Default."
 currently_learning: ["PMP", "AZ-104", "AZ-305", "Cloud Security"]
 fun_fact: "협곡에서도 한타 전 와드부터 박는 타입 🛡️"
